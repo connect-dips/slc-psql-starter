@@ -1,0 +1,12 @@
+{
+  "starterDS": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "starter",
+    "password": "",
+    "name": "starterDS",
+    "user": "dipinkrishnan",
+    "connector": "postgresql"
+  }
+}
